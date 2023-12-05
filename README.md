@@ -3,10 +3,15 @@ cyberpatriot vuln cats
 
 ## CyberPatriot X    (10)  &emsp; (2017-2018)
 [Round 1 High School](./CP-X_Round_1_High_School_Vulnerability_Categories.pdf)
+
 [Round 1 Middle School](./CP-X_Round_1_Middle_School_Vulnerability_Categories.pdf)
+
 [Round 2 High School](./CP-X_Round_2_High_School_Vulnerability_Categories.pdf)
+
 [Round 2 Middle School](./CP-X_Round_2_Middle_School_Vulnerability_Categories.pdf)
+
 [State Round Platinum Tier](./CP-X_State_Round_Platinum_Tier_Vulnerability_Categories.pdf)
+
 [State Round Middle School](./CP-X_State_Round_Middle_School_Vulnerability_Categories.pdf)
 
 ## CyberPatriot XI   (11)  &emsp; (2018-2019)
