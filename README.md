@@ -27,13 +27,13 @@ cyberpatriot vuln cats
 
 [State Round Gold Tier](./CP-XI_State_Round_Gold_Vulnerability_Categories.pdf)
 
-[State Round Silver and Middle School](./CP-XI_State_Round_Silver_and_Middle_School_Vulnerability_Categories.pdf)
+[State Round Silver Tier and Middle School](./CP-XI_State_Round_Silver_and_Middle_School_Vulnerability_Categories.pdf)
 
-[Semifinals Platinum](./CP-XI_Semifinals_Platinum_Tier_Vulnerability_Categories.pdf)
+[Semifinals Platinum Tier](./CP-XI_Semifinals_Platinum_Tier_Vulnerability_Categories.pdf)
 
-[Semifinals Gold](./CP-XI_Semifinals_Gold_Tier_Vulnerability_Categories.pdf)
+[Semifinals Gold Tier](./CP-XI_Semifinals_Gold_Tier_Vulnerability_Categories.pdf)
 
-[Semifinals Silver](./CP-XI_Semifinals_Silver_Tier_Vulnerability_Categories.pdf)
+[Semifinals Silver Tier](./CP-XI_Semifinals_Silver_Tier_Vulnerability_Categories.pdf)
 
 [Semifinals Middle School](./CP-XI_Semifinals_Middle_School_Vulnerability_Categories.pdf)
 
@@ -55,11 +55,11 @@ cyberpatriot vuln cats
 
 [State Round Middle School](./CP-XII_State_Round_Middle_School_Vulnerability_Categories.pdf)
 
-[Semifinals Platinum](./CP-XII_Semifinal_Round_Platinum_Vulnerability_Categories.pdf)
+[Semifinals Platinum Tier](./CP-XII_Semifinal_Round_Platinum_Vulnerability_Categories.pdf)
 
-[Semifinals Gold](./CP-XII_Semifinal_Round_Gold_Vulnerability_Categories.pdf)
+[Semifinals Gold Tier](./CP-XII_Semifinal_Round_Gold_Vulnerability_Categories.pdf)
 
-[Semifinals Silver](./CP-XII_Semifinal_Round_Silver_Tier_Vulnerability_Categories.pdf)
+[Semifinals Silver Tier](./CP-XII_Semifinal_Round_Silver_Tier_Vulnerability_Categories.pdf)
 
 [Semifinals Middle School](./CP-XII_Semifinal_Round_Middle_School_Vulnerability_Categories.pdf)
 
@@ -77,7 +77,7 @@ cyberpatriot vuln cats
 
 [Round 3 Gold Tier](./CP-XIII_Round_3_Gold_Vulnerability_Categories.pdf)
 
-[Round 3 Silver and Middle School](./CP-XIII_Round_3_Silver_and_Middle_School_Vulnerability_Categories.pdf)
+[Round 3 Silver Tier and Middle School](./CP-XIII_Round_3_Silver_and_Middle_School_Vulnerability_Categories.pdf)
 
 
 ## CyberPatriot XIV  (14)   &nbsp; (2021-2022)
@@ -97,11 +97,11 @@ cyberpatriot vuln cats
 
 [State Round Middle School](./CP-XIV_State_Round_Middle_School_Vulnerability_Categories.pdf)
 
-[Semifinals Platinum](./CP-XIV_Semifinal_Round_Platinum_Vulnerability_Categories.pdf)
+[Semifinals Platinum Tier](./CP-XIV_Semifinal_Round_Platinum_Vulnerability_Categories.pdf)
 
-[Semifinals Gold](./CP-XIV_Semifinal_Round_Gold_Vulnerability_Categories.pdf)
+[Semifinals Gold Tier](./CP-XIV_Semifinal_Round_Gold_Vulnerability_Categories.pdf)
 
-[Semifinals Silver](./CP-XIV_Semifinal_Round_Silver_Vulnerability_Categories.pdf)
+[Semifinals Silver Tier](./CP-XIV_Semifinal_Round_Silver_Vulnerability_Categories.pdf)
 
 [Semifinals Middle School](./CP-XIV_Semifinal_Round_Middle_School_Vulnerability_Categories.pdf)
 
@@ -124,11 +124,11 @@ cyberpatriot vuln cats
 
 [State Round Middle School](./CP-XV_State_Round_Vulnerability_Categories_Middle_School.pdf)
 
-[Semifinals Platinum](./CP-XV_Semifinals_Vulnerability_Categories_Platinum.pdf)
+[Semifinals Platinum Tier](./CP-XV_Semifinals_Vulnerability_Categories_Platinum.pdf)
 
-[Semifinals Gold](./CP-XV_Semifinals_Vulnerability_Categories_Gold.pdf)
+[Semifinals Gold Tier](./CP-XV_Semifinals_Vulnerability_Categories_Gold.pdf)
 
-[Semifinals Silver](./CP-XV_Semifinals_Vulnerability_Categories_Silver.pdf)
+[Semifinals Silver Tier](./CP-XV_Semifinals_Vulnerability_Categories_Silver.pdf)
 
 [Semifinals Middle School](./CP-XV_Semifinals_Vulnerability_Categories_Middle_School.pdf)
 
