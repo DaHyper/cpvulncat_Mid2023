@@ -93,7 +93,7 @@ cyberpatriot vuln cats
 
 [State Round Gold Tier](./CP-XIV_State_Round_Gold_Vulnerability_Categories.pdf)
 
-[State Round Silver Tier]()
+[State Round Silver Tier](./CP-XIV_State_Round_Silver_Vulnerability_Categories.pdf)
 
 [State Round Middle School](./CP-XIV_State_Round_Middle_School_Vulnerability_Categories.pdf)
 
