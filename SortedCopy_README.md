@@ -30,7 +30,7 @@
 
 [State Round Gold Tier](./CP-XI_State_Round_Gold_Vulnerability_Categories.pdf)
 
-[State Round Silver and Middle School](./CP-XI_State_Round_Silver_and_Middle_School_Vulnerability_Categories.pdf)
+[State Round Silver Tier and Middle School](./CP-XI_State_Round_Silver_and_Middle_School_Vulnerability_Categories.pdf)
 ### Semifinals
 [Semifinals Platinum Tier](./CP-XI_Semifinals_Platinum_Tier_Vulnerability_Categories.pdf)
 
