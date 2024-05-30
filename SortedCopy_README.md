@@ -156,3 +156,11 @@
 [State Round Silver Tier]()
 
 [State Round Middle School]()
+### Semifinals
+[Semifinals Platinum Tier]()
+
+[Semifinals Gold Tier]()
+
+[Semifinals Silver Tier]()
+
+[Semifinals Middle School]()
