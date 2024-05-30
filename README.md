@@ -149,10 +149,10 @@ cyberpatriot vuln cats
 
 [State Round Middle School](./CP-XVI_State_Round_Middle_School_Vulnerability_Categories.pdf)
 
-[Semifinals Platinum Tier]()
+[Semifinals Platinum Tier](./CP-XVI_Semifinal_Round_Vulnerability_Categories_Platinum.pdf)
 
-[Semifinals Gold Tier]()
+[Semifinals Gold Tier](./CP-XVI_Semifinal_Round_Vulnerability_Categories_Gold.pdf)
 
-[Semifinals Silver Tier]()
+[Semifinals Silver Tier](./CP-XVI_Semifinal_Round_Vulnerability_Categories_Silver.pdf)
 
-[Semifinals Middle School]()
+[Semifinals Middle School](./CP-XVI_Semifinal_Round_Vulnerability_Categories_Middle_School.pdf)
