@@ -156,3 +156,29 @@ cyberpatriot vuln cats
 [Semifinals Silver Tier](./CP-XVI_Semifinal_Round_Vulnerability_Categories_Silver.pdf)
 
 [Semifinals Middle School](./CP-XVI_Semifinal_Round_Vulnerability_Categories_Middle_School.pdf)
+
+
+
+
+## CyberPatriot XVII  (17)   &nbsp; (2024-2025)
+[Round 1 High School](./xxx)
+
+[Round 2 High School](./xxx)
+
+[Round 2 Middle School](./xxx)
+
+[State Round Platinum Tier](./xxx)
+
+[State Round Gold Tier](./xxx)
+
+[State Round Silver Tier](./xxx)
+
+[State Round Middle School](/xxx)
+
+[Semifinals Platinum Tier](/xxx)
+
+[Semifinals Gold Tier](/xxx)
+
+[Semifinals Silver Tier](./xxx)
+
+[Semifinals Middle School](./xxx)
