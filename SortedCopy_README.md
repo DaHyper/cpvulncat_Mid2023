@@ -171,22 +171,22 @@
 ### Round 1
 [Round 1 High School](./CP-17 Round 1 High School Vulnerability Categories.pdf)
 ### Round 2
-[Round 2 High School](./xxx)
+~~[Round 2 High School](./xxx)~~
 
-[Round 2 Middle School](./xxx)
+~~[Round 2 Middle School](./xxx)~~
 ### State Round
-[State Round Platinum Tier](./xxx)
+~~[State Round Platinum Tier](./xxx)~~
 
-[State Round Gold Tier](./xxx)
+~~[State Round Gold Tier](./xxx)~~
 
-[State Round Silver Tier](./xxx)
+~~[State Round Silver Tier](./xxx)~~
 
-[State Round Middle School](/xxx)
+~~[State Round Middle School](/xxx)~~
 ### Semifinals
-[Semifinals Platinum Tier](/xxx)
+~~[Semifinals Platinum Tier](/xxx)~~
 
-[Semifinals Gold Tier](/xxx)
+~~[Semifinals Gold Tier](/xxx)~~
 
-[Semifinals Silver Tier](./xxx)
+~~[Semifinals Silver Tier](./xxx)~~
 
-[Semifinals Middle School](./xxx)
+~~[Semifinals Middle School](./xxx)~~
