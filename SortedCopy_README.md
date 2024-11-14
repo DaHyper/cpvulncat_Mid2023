@@ -169,7 +169,7 @@
 
 ## CyberPatriot XVII  (17)   &nbsp; (2024-2025)
 ### Round 1
-[Round 1 High School](./CP-17_Round-1_High_School_Vulnerability_Categories.pdf)
+[Round 1 High School](./CP-17_Round_1_High_School_Vulnerability_Categories.pdf)
 ### Round 2
 ~~[Round 2 High School](./xxx)~~
 
