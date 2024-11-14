@@ -163,22 +163,22 @@ cyberpatriot vuln cats
 ## CyberPatriot XVII  (17)   &nbsp; (2024-2025)
 [Round 1 High School](./xxx)
 
-[Round 2 High School](./xxx)
+~~[Round 2 High School](./xxx)~~
 
-[Round 2 Middle School](./xxx)
+~~[Round 2 Middle School](./xxx)~~
 
-[State Round Platinum Tier](./xxx)
+~~[State Round Platinum Tier](./xxx)~~
 
-[State Round Gold Tier](./xxx)
+~~[State Round Gold Tier](./xxx)~~
 
-[State Round Silver Tier](./xxx)
+~~[State Round Silver Tier](./xxx)~~
 
-[State Round Middle School](/xxx)
+~~[State Round Middle School](/xxx)~~
 
-[Semifinals Platinum Tier](/xxx)
+~~[Semifinals Platinum Tier](/xxx)~~
 
-[Semifinals Gold Tier](/xxx)
+~~[Semifinals Gold Tier](/xxx)~~
 
-[Semifinals Silver Tier](./xxx)
+~~[Semifinals Silver Tier](./xxx)~~
 
-[Semifinals Middle School](./xxx)
+~~[Semifinals Middle School](./xxx)~~
