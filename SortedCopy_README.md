@@ -164,3 +164,9 @@
 [Semifinals Silver Tier](./CP-XVI_Semifinal_Round_Vulnerability_Categories_Silver.pdf)
 
 [Semifinals Middle School](./CP-XVI_Semifinal_Round_Vulnerability_Categories_Middle_School.pdf)
+
+
+
+## CyberPatriot XVII  (17)   &nbsp; (2024-2025)
+### Round 1
+[Round 1 High School](./xxx)
